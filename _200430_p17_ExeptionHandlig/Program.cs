@@ -9,6 +9,7 @@ namespace _200430_p17_ExeptionHandlig
 {
     class Program
     {
+        //pakeitimas
         static void Main(string[] args)
         {
             try
