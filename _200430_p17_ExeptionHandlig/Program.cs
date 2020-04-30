@@ -44,7 +44,7 @@ namespace _200430_p17_ExeptionHandlig
             {
                 Console.WriteLine("nenumatyta klaida" + ex.Message);
                 Console.WriteLine(ex.GetType());
-                Console.WriteLine(ex.StackTrace);
+                //Console.WriteLine(ex.StackTrace);
             }
 
 
